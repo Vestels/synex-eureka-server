@@ -6,7 +6,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "Vestels/eureka-server",
+      "repo": "Vestels/synex-eureka-server",
       "disableThanks": true
     }
   ],
