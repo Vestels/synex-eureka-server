@@ -1,4 +1,4 @@
-package com.fitnessapp.eurekaserver;
+package com.synex.synaxeurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

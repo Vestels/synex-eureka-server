@@ -1,4 +1,4 @@
-package com.fitnessapp.eurekaserver;
+package com.synex.synaxeurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
