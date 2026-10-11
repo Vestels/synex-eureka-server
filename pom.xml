@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.synex</groupId>
     <artifactId>synax-eureka-server</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.3-SNAPSHOT</version>
     <name>synax-eureka-server</name>
     <description>Eureka discovery server for Microservices</description>
     <url/>
